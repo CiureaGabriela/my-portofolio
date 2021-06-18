@@ -1,0 +1,36 @@
+
+  .github {
+    transform: scale(1.0);
+    transition: transform 0.3s;
+  }
+  
+  .github:hover {
+    transform: scale(1.6);
+  }
+
+  .linkedin {
+    transform: scale(1.0);
+    transition: transform 0.3s;
+  }
+  
+  .linkedin:hover {
+    transform: scale(1.6);
+  }
+  .mail {
+    transform: scale(1.0);
+    transition: transform 0.3s;
+  }
+  
+  .mail:hover {
+    transform: scale(1.6);
+  }
+  .phone {
+    transform: scale(1.0);
+    transition: transform 0.3s;
+  }
+  
+  .phone:hover {
+    transform: scale(1.6);
+  }
+
+  

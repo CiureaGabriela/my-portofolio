@@ -1,0 +1,82 @@
+.header{
+
+    width: 100%;
+    height: 60px;
+    background-color: #0d0d0d;
+    z-index: 1;
+    border-bottom: solid;
+    border-bottom-color: #ff4dff;
+    color: #ffe6f2;
+    
+}
+
+    
+
+.home {
+    color: #ffe6f2 ;
+    text-decoration:inherit;
+    text-shadow:lavenderblush;
+    font-weight: bold;
+    
+}
+.contact {
+    color: #ffe6f2;
+    text-decoration:inherit;
+    text-shadow:lavenderblush;
+    font-weight: bold;
+}
+
+.resume {
+    color: #ffe6f2;
+    text-decoration:inherit;
+    text-shadow:lavenderblush;
+    font-weight: bold;
+}
+.projects{
+    color: #ffe6f2;
+    text-decoration:inherit;
+    text-shadow:lavenderblush;
+    font-weight: bold;
+}
+.about{
+    color:#ffe6f2;
+    text-decoration:inherit;
+    text-shadow:lavenderblush;
+    font-weight: bold;
+}
+.name{
+   cursor: pointer;
+   
+   font-weight: bold;
+   margin-left: 5px;
+   color: #1a1aff;
+}
+.name:hover {
+    color: #ccccff;
+}
+
+ 
+  .home:hover {
+  text-decoration: underline black ;
+  color:#ff4dff;
+  }
+  
+  
+  .about:hover {
+    text-decoration: underline black ;
+    color:#ff4dff;
+  }
+ 
+  
+  .projects:hover {
+    text-decoration: underline black ;
+    color:#ff4dff;
+  } 
+  .contact:hover {
+    text-decoration: underline black ;
+    color:#ff4dff;
+  }
+  .resume:hover {
+    text-decoration: underline black ;
+  color:#ff4dff;
+  }  

@@ -1,0 +1,50 @@
+.Home{
+
+    min-height: calc(100vh - 60px);
+    background-image: url(https://www.allwhitebackground.com/images/6/Technology-Background-Picture.jpg);
+    
+}
+.title{
+    text-align: center;
+    padding: 20px;
+    
+    color: lavenderblush;
+    font-family:sans-serif;
+
+}
+.container h1{
+    display: flex;
+    justify-content: center;
+}
+.title-2{
+    display:none;
+    transition:transform 0.5s;
+}
+
+.container{
+    margin-top:25px;
+    padding: 20px;
+    
+    background-color: rgb(32, 32, 63);
+    height: 150px;
+    border: solid;
+    border-color: rgb(187, 102, 180);
+    transition: height ;
+}
+.container:hover .title {
+   
+    background-color:cadetblue;
+    display: none;
+
+}
+.container:hover .title-2  {
+    display:inline-block;
+    cursor: pointer;
+    text-align: center;
+    padding: 20px;
+    color: lavenderblush;
+    font-family:sans-serif;
+    transform: rotate(360%);
+    font-size: 50px;
+}
+
