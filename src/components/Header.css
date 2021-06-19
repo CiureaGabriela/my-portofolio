@@ -5,7 +5,7 @@
     background-color: #0d0d0d;
     z-index: 1;
     border-bottom: solid;
-    border-bottom-color: #ff4dff;
+    border-bottom-color: rgb(8, 4, 14);
     color: #ffe6f2;
     
 }
@@ -49,7 +49,7 @@
    
    font-weight: bold;
    margin-left: 5px;
-   color: #1a1aff;
+   color:white;
 }
 .name:hover {
     color: #ccccff;
@@ -58,25 +58,25 @@
  
   .home:hover {
   text-decoration: underline black ;
-  color:#ff4dff;
+  color:#ccccff;
   }
   
   
   .about:hover {
     text-decoration: underline black ;
-    color:#ff4dff;
+    color:#ccccff;
   }
  
   
   .projects:hover {
     text-decoration: underline black ;
-    color:#ff4dff;
-  } 
+    color:#ccccff;
+  }
   .contact:hover {
     text-decoration: underline black ;
-    color:#ff4dff;
+    color:#ccccff;
   }
   .resume:hover {
     text-decoration: underline black ;
-  color:#ff4dff;
+  color:#ccccff;
   }  
